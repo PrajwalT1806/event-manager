@@ -36,7 +36,7 @@ A fully interactive, dynamic event calendar built using **React**. This calendar
 - Warns user on **event conflicts** (overlapping date/time).
 - Prevents accidental overlapping unless explicitly allowed.
 
-### 6.  Filtering & Searching *(Optional)*
+### 6.  Filtering & Searching 
 - Filter events by **category**.
 - **Search bar** for event title/description.
 - Dynamic filtering as user types.
@@ -44,12 +44,6 @@ A fully interactive, dynamic event calendar built using **React**. This calendar
 ### 7. Event Persistence
 - Uses **Local Storage** to persist events.
 - Events remain saved across page refreshes and sessions.
-
-### 8. Responsive Design 
-- Fully responsive layout.
-- Supports smaller screen views with layout adjustments (e.g., weekly/daily fallback).
-
----
 
 ## ⚙️ Tech Stack
 
@@ -59,6 +53,5 @@ A fully interactive, dynamic event calendar built using **React**. This calendar
 - **Drag & Drop:** [React DnD](https://react-dnd.github.io/react-dnd/) or custom
 - **Styling:** CSS Modules / Tailwind / SCSS (based on your implementation)
 
----
 
 
